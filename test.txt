@@ -1,0 +1,6 @@
+git init
+git clone
+git add origin_name repo_url
+git status
+git add .
+git push origin_name branch_name
